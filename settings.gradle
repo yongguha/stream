@@ -1,0 +1,11 @@
+//include ':grouping'
+include ':groupingBy'
+include ':reduce'
+include ':collect1'
+include ':map'
+include ':flatMap'
+include ':filter'
+include ':collection'
+include ':stream1'
+include ':app'
+rootProject.name = "My Application"
